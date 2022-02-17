@@ -1,0 +1,5 @@
+create a variable "total_sum" and set it to 0
+take the input from the user
+check if input from user is positive or negative
+a. if input is negative, print "total_sum" and terminate the program
+b. if input is positive, add it to "total_sum" and repeat steps 2-3
