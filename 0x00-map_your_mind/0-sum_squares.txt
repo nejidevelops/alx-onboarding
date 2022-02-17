@@ -1,0 +1,9 @@
+input the number represented "a"
+declare the variable "sum_of_squares" and declare it to 0
+start the loop at 1
+multiply the current loop number by itself and add to "sum_of_squares"
+increase current loop number by 1
+check if the current loop number is greater than "a"
+a. if current loop number is not greater than "a", repeat until it is greater
+b. if current loop number is greater than "a", exit loop
+print "sum_of_squares"
