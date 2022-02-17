@@ -1,0 +1,7 @@
+input 3 numbers
+create variables "min_val", "mid_val" and "max_val" and set each to 0
+find the smallest number by comparison and assign it to "min_val"
+find the largest number by comparison and assign it to "max_val"
+find the number that is neither smallest or largest and assign it to "mid_val"
+store the numbers in a list in this order: "min_val", "mid_val" and "max_val
+print your list
